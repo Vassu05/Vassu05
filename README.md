@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Vassu05/Vassu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vasanth Reddy.
 
-Here are some ideas to get you started:
+Here are a few details about me:
+- Currently pursuing B.Tech in ECE NIT Silchar.
+- Competitive programmer with a good grip on Data Structures and Algorithms
+- Good at MERN stack development, trying to learn new technologies
+- Email: vasanthreddy05122@gmail.com
+- Skills:
+  - Languages: C, C++ , Python, Java, HTML/CSS/Bootstrap, MySQL, JavaScript
+  - FrameWorks and Databases: ReactJs, NodeJs, ExpressJs, SQL, MongoDB
+  - Tools: VIM, GIT, VSCode, Ubuntu, Sublime
+  - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more about me on my Linkedin: [Vasanth Reddy](https://www.linkedin.com/in/vasanth-reddy-aleti-88225b227/)
